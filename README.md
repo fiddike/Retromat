@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/findingmarbles/Retromat.svg?branch=master)](https://travis-ci.org/findingmarbles/Retromat)
+﻿[![Build Status](https://travis-ci.org/findingmarbles/Retromat.svg?branch=master)](https://travis-ci.org/findingmarbles/Retromat)
+
+Gabriels Git Experiment - Hello World
 
 Retromat
 ========
